@@ -1,16 +1,7 @@
-# calculadora_de_custo_de_viagem
+# Calculadora de Custo de Viagem
 
-Calculadora do custo de uma viagem, para isso, o aplicativo solicitar ao usuário a distância em KM, o preço do combustível e a média de consumo do veículo.
+### ENÚNCIADO
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Crie um aplicativo usando o Flutter que calcule o custo de uma viagem, para isso, o
+aplicativo solicitar ao usuário a distância em KM, o preço do combustível e a média de consumo do
+veículo. Ao clicar em calcular, mostar uma mensagem de alerta com o custo da viagem.
